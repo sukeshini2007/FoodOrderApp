@@ -1,0 +1,32 @@
+.meal {
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px;
+  padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background-color: white;
+  
+  padding-bottom: 7px;
+  border-bottom: 1px solid #ccc;
+  }
+  
+  .meal h3 {
+    margin: 5px;
+  }
+  
+  .description {
+    font-style: italic;
+  }
+  
+  .price {
+    margin-top: 5px;
+    font-weight: bold;
+    color: #ad5502;
+    font-size: 25px;
+  }
+  section{
+    width: 700px;
+    align-items: center;
+  }

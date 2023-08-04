@@ -1,0 +1,29 @@
+.btn{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: space-around;
+    padding: 20px;
+    font: inherit;
+    height: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(76, 71, 71);
+    color: aliceblue;
+    font-weight: bold;
+
+}
+button:active, button:hover{
+    background-color: rgb(239, 163, 163);
+}
+.icon{
+    margin-right: 6px;
+    
+}
+.badge{
+    background-color: rgb(218, 91, 27);
+padding: 3px 7px;
+border-radius: 50px;
+font-weight: bold;
+    margin-left: 8px;
+}
